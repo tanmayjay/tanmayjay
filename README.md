@@ -17,8 +17,6 @@
 
 [![Tanmay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjay&private=true&theme=react&count_private=true&show_icons=true)](https://github.com/tanmayjay)
 
-[![Tanmay's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=tanmayjay&theme=react&count_private=true&show_icons=true)](https://github.com/tanmayjay)
-
 - 🔭 I’m currently working on `PHP`, `Laravel`, `WordPress`, `Vue.js`, `Vuex`, `AJAX`, `jQuery`
 - 🌱 I’m currently learning `React`, `Redux`, `React Native`, `DevOps`
 - ⚡ For problem solving: `C++` and `Python`
