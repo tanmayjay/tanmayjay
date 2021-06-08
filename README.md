@@ -6,6 +6,17 @@
 
 > I am an engineering graduate in the field of Computer Science and Engineering and a professional Software Engineer with an enthusiastic interest in both web app and mobile app development. As a developer, I have the expertise in back-end development with a vast knowledge of problem solving including algorithms and data structure, and have intermediate skills in front-end development. As an enthusiastic learner, I always seek to learn through developing and I have a goal to become a specialized full stack developer to contribute significantly in the field of software engineering. 
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=tanmayjay">
+</a>
+
+
+# GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjay&theme=react&show_icons=true&private=true&include_all_commits=true&border_radius=4 "My GitHub Stats")](https://github.com/tanmayjay)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjay&private=true&layout=compact&theme=react)
+
 - 🔭 I’m currently working on `PHP`, `Laravel`, `WordPress`, `Vue.js`, `Vuex`, `AJAX`, `jQuery`
 - 🌱 I’m currently learning `React`, `Redux`, `React Native`, `DevOps`
 - ⚡ For problem solving: `C++` and `Python`
