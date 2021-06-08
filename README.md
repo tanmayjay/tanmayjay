@@ -13,9 +13,11 @@
 
 # GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjay&theme=react&show_icons=true&private=true&include_all_commits=true&border_radius=4 "My GitHub Stats")](https://github.com/tanmayjay)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayjay&theme=react&show_icons=true&private=true&include_all_commits=true&border_radius=4&count_private=true)](https://github.com/tanmayjay)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjay&private=true&layout=compact&theme=react)
+[![Tanmay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjay&private=true&theme=react&count_private=true&show_icons=true)](https://github.com/tanmayjay)
+
+[![Tanmay's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=tanmayjay&theme=react&count_private=true&show_icons=true)](https://github.com/tanmayjay)
 
 - 🔭 I’m currently working on `PHP`, `Laravel`, `WordPress`, `Vue.js`, `Vuex`, `AJAX`, `jQuery`
 - 🌱 I’m currently learning `React`, `Redux`, `React Native`, `DevOps`
