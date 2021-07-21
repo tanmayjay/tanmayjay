@@ -22,4 +22,4 @@
 - ⚡ For problem solving: `C++` and `Python`
 - 👯 I’m looking to collaborate on ***Web Development***
 - 💬 Ask me about `PHP` and `JavaScript`
-- 📫 How to reach me: ***jktanmay@gmail.com*** or ***+8801686340252***
+- 📫 How to reach me: ***jktanmay@gmail.com***
