@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **`PHP`, `WordPress`, `Gutenberg`, `React.js`, `Vue.js`**
 
-- 🌱 I’m currently learning **`Gutenberg`**
+- 🌱 I’m currently learning **`GraphQL`**
 
 - 👯 I’m looking to collaborate on **`WordPress`**
 
